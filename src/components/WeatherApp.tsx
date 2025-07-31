@@ -209,7 +209,7 @@ const WeatherApp = () => {
       {/* Hero Section */}
       <div 
         className="relative h-96 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: `url(${"https://2af0f0f1-dec7-4948-a4bb-e594c7cb3efc.lovableproject.com/src/assets/weather-hero-bg.jpg"})` }}
+        style={{ backgroundImage: `url(${"https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?q=80&w=1174&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"})` }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-transparent" />
         <div className="relative container mx-auto px-4 h-full flex items-center">
